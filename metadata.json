@@ -1,0 +1,6 @@
+{
+  "name": "CircuitForge - Virtual Breadboard & Schematic Studio",
+  "description": "Professional browser-based electronics design studio with realistic virtual breadboard, schematic diagram editor, and real-time circuit simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
